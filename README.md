@@ -23,8 +23,8 @@ This is a full-stack web application that allows users to upload documents and c
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/replit/ai-starter-template.git
+   cd ai-starter-template
    ```
 
 2. **Install dependencies:**
